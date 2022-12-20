@@ -1,2 +1,3 @@
 Hola este es un texto de prueba
-empezando a usar git
+empezando a usar git y  github
+Soy Sergio Yucra
